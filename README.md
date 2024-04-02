@@ -1,7 +1,7 @@
 # Desafío para Dev
 
-Nombre postulante: [MATEO DONINO]
-Link a la app en producción: [dev-challenge-rickymorty.vercel.app]
+Nombre postulante: MATEO DONINO
+Link a la app en producción: https://dev-challenge-rickymorty.vercel.app
 
 ## Instrucciones
 
