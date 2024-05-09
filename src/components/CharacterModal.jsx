@@ -8,7 +8,7 @@ export const CharacterModal = ({ character, onClick }) => {
       className={`bg-black/70 h-screen w-screen grid place-content-center fixed inset-0`}
     >
       <div className="relative rounded-xl overflow-hidden">
-        <div className="bg-slate-800 grid grid-cols-12 gap-5  w-[50vw]">
+        <div className="bg-slate-800 grid grid-cols-12 gap-5 ">
           <div className="h-full col-span-6">
             <img src={image} className="h-full object-cover" alt="" />
           </div>
