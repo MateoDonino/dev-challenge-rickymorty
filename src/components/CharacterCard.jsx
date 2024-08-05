@@ -11,7 +11,7 @@ export const CharacterCard = ({ name, image, status, species, onClick }) => {
       />
 
       <div className="p-5 w-full rounded-lg absolute bottom-0 bg-[linear-gradient(360deg,_rgba(0,0,0,1)_0%,_rgba(0,0,0,0)_100%)]">
-        <h5 className="text-center text-xl font-bold tracking-tight text-white ">
+        <h5 className="mb-2 text-center text-xl font-bold tracking-tight text-white ">
           {name}
         </h5>
       </div>
